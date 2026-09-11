@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "crates/bits",
+]
+
+resolver = "3"
