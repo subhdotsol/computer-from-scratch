@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "crates/bits",
+    "programs/bits-playground",
 ]
 
 resolver = "3"
